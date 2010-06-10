@@ -4,13 +4,28 @@ Sustainable Websites Links Safari Toolbar
 
 This is a demonstration of Safari 5's new extensions capability. Specifically, Toolbars, and how easy it is to make one with CSS and HTML. 
 
-The best way to explore this right now is to check out the source on github, download it, and load up the extension in Safari's Extension Builder (in the Develop menu)
+Requirements
+------------
+Apple's [Safari][safarilink] browser version 5.0 or later
+ [safarilink]:http://www.apple.com/safari
 
-I'm working on a forthcoming blog post on how I built this which will be posted on http://SustainableWebsites.com/blog
+Installation
+------------
+If you just want to [download][dl] the compiled extension and install it in Safari, the link is [here][dl]. Don't forget to enable extensions
+ [dl]:http://github.com/downloads/ivanoats/sustainablewebsites_links.safariextension/sustainablewebsites_links.safariextz
+.
+
+
+The best way to explore this code right now is to check out the source on github, download it, and load up the extension in Safari's Extension Builder (in the Develop menu)
+
+I'm working on a forthcoming blog post on how I built this which will be posted on [http://SustainableWebsites.com/blog][bloglink].
+  [bloglink]:http://www.sustainablewebsites.com/blog
+
 
 Copyright Info
 --------------
-MIT License, basically feel free to modify to use in your own projects, just credit and link to Sustainable Websites to be nice! 
+MIT License, basically feel free to modify to use in your own projects.
+Credit or link to Sustainable Websites would be nice! 
 
 Copyright &copy; 2010 Sustainable Websites LLC
 
